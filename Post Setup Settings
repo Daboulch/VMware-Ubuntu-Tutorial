@@ -3,7 +3,7 @@ ____
 
 ## Post Setup (Ubuntu on the VM)
 
-After the setup page you should click enter on the first setting to "Try or Install Ubuntu"  
+After the setup page you should click **enter** on the first setting to "Try or Install Ubuntu"  
 It should then open the Ubuntu Desktop on the VM and you will need to go through some basic starting settings such as  
 - Installation Langugage
 - Accessibility
@@ -11,7 +11,7 @@ It should then open the Ubuntu Desktop on the VM and you will need to go through
 - Internet connection
 
 Most of these settings are dependent on your preferences. If you're unsure you should follow the default options since it's the simplest.  
-Once you reach the "How do you want to install Ubuntu" select the "Erase disk and install Ubuntu" option. This will not delete anything from your main computer just the disc that you allocated to the VM which shouldnt have anything anyways.  
-There will be a few more options like username and password, timezone, and reviewing. Then click **install** and wait, once the installation is complete click "Restart Now" and then click enter when it says to.  
+Once you reach the "How do you want to install Ubuntu" select the **"Erase disk and install Ubuntu"** option. This will **NOT** delete anything from your main computer just the disk that you allocated to the VM which should not have anything anyways.  
+There will be a few more options like username and password, timezone, and reviewing. Then click **install** and wait, once the installation is complete click **"Restart Now"** and then click **enter** when it says to.  
 
 If done correctly and everything went well you should now have a working Ubuntu OS in VMWare.
