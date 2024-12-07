@@ -1,4 +1,4 @@
-## VMware-Ubuntu-Tutorial
+## VMware Ubuntu Install Tutorial
 Created by Daniel Boulch  
 
 Basic tutorial how to install a Ubuntu Desktop using VMware on a computer running windows, this could be used for any purpose. 
