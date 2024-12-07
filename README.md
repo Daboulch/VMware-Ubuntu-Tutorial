@@ -3,5 +3,5 @@ Basic tutorial how to install a Ubuntu Desktop using VMware on a computer runnin
 
 ### Steps in order 
 
-[VMware Install](https://github.com/Daboulch/VMware-Ubuntu-Tutorial/blob/main/Ubuntu%20Install)
+[VMware Install](https://github.com/Daboulch/VMware-Ubuntu-Tutorial/blob/main/Ubuntu%20Install)  
 [Ubuntu Install](https://github.com/Daboulch/VMware-Ubuntu-Tutorial/blob/main/Ubuntu%20Install)
