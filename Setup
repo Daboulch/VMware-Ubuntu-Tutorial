@@ -3,13 +3,13 @@ ____
 
 ## Setup
 
-Open VMware and click "Create a New Virtual Machine".  
+### Open VMware and click "Create a New Virtual Machine".  
 It will then open a setup wizard where you can choose your configuration. For this example choose the recommended option.  
-Then you will be asked where to install the OS from. We will choose the "Installer disc image file (iso)" which you will click browse and navigate to the file you installed from the Ubuntu website.  
+Then you will be asked where to install the OS from. We will choose the **"Installer disc image file (iso)"** which you will click **browse** and navigate to the file you installed from the Ubuntu website.  
 In my case the file is named "ubuntu-24.04-desktop-amd64.iso" and once that is selected you will continue.  
 
 Next it will ask for some basic information such as Username and Password for the Virtual Machine and then the name of the virtual machine as well as the location of the virtual machine on your computer.  
 It will then ask for how much storage you want to allocate which is dependent on what you plan on doing as well if you want to split the disk. If you're unsure you can always just go with the default settings.  
-Lasly, it will show you all the information about the virtual machine you are about to make in which you will click finish to create it.  
+Lasly, it will show you all the information about the virtual machine you are about to make in which you will click **finish** to create it.  
 
 See the **[Post Setup](https://github.com/Daboulch/VMware-Ubuntu-Tutorial/blob/main/Post%20Setup%20Settings)** page next!
